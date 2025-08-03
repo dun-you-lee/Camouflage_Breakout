@@ -20,9 +20,10 @@ The game's image assets live in the `image/` directory; their sizes and the `.bi
 
 **## License**
 
-This project is licensed under \[CC BY-NC 4.0](https://github.com/dun-you-li/Camouflage\_Breakout/blob/main/LICENSE).
+This project is licensed under \[CC BY-NC 4.0](https://github.com/dun-you-li/Camouflage_Breakout/blob/main/LICENSE).
 
 
 **## Author**
+
 
 Create by Dun-You Li
