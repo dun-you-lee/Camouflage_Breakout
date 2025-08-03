@@ -1,0 +1,16 @@
+--cpu=Cortex-M4.fp.sp
+".\ram\hardwaresystem_ini.o"
+".\ram\driver_spi.o"
+".\ram\game.o"
+".\ram\main.o"
+".\ram\touch_functions.o"
+".\ram\touch_module.o"
+".\ram\rng.o"
+".\ram\stm32f4xx_fsmc.o"
+".\ram\stm324xg_lcd_ili9341.o"
+".\ram\startup_stm32f407xx.o"
+".\ram\system_stm32f4xx.o"
+--strict --scatter ".\RAM\RAM.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\RAM\RAM.map" -o .\RAM\RAM.axf
