@@ -10,7 +10,7 @@ A custom turn-based strategy game implemented on the STM32F407ZG microcontroller
 
 **## Usage**
 
-To embed the game on the STM32F407ZG board, import all files from this folder (excluding the License and Readme files).
+To embed the game on the STM32F407ZG board, import all files from this folder.
 
 
 **## Resources**
@@ -27,3 +27,4 @@ This project is licensed under \[CC BY-NC 4.0](https://github.com/dun-you-li/Cam
 
 
 Create by Dun-You Li
+
