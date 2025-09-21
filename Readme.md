@@ -5,7 +5,7 @@ A custom turn-based strategy game implemented on the STM32F407ZG microcontroller
 
 **## Demo Video**
 
-\[Watch the full demo on YouTube](https://youtu.be/iHgyXEbaXTg)
+\[Watch the full demo on YouTube](https://youtu.be/Dz7sPIEd2cw)
 
 
 **## Usage**
@@ -27,6 +27,7 @@ This project is licensed under \[CC BY-NC 4.0](https://github.com/dun-you-lee/Ca
 
 
 Create by Dun-You LEE
+
 
 
 
